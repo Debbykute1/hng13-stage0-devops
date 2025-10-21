@@ -7,4 +7,4 @@
 This project is part of the HNG13 Stage 0 DevOps challenge.  
 It involves setting up and deploying a simple server, then documenting the setup process on GitHub.  
 The goal is to demonstrate knowledge of version control, GitHub workflows, and deployment basics.
-**Server IP/Domain:** http://172.173.138.150
+**Server IP/Domain:** http://20.39.52.47
